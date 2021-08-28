@@ -11,19 +11,20 @@
 ### 🎮 Console Application
 
 - 🚗 [자동차 경주 게임](https://github.com/jiwoo-kimm/mirror-racing-car)
-- 💸 [로또 게임](https://github.com/jiwoo-kimm/java-lotto/tree/jiwoo-kimm) (2단계 진행 중)
+- 💸 [로또 게임](https://github.com/jiwoo-kimm/java-lotto/tree/jiwoo-kimm) *(2단계 진행 중)*
 - 🃏 [블랙잭 게임](https://github.com/jiwoo-kimm/mirror-java-blackjack)
-- ♟ [체스 게임](https://github.com/jiwoo-kimm/java-chess/tree/jiwoo-kimm-step1) (1단계 진행 중)
+- ♟ [체스 게임](https://github.com/jiwoo-kimm/java-chess/tree/jiwoo-kimm-step1) *(1단계 진행 중)*
 
 ### 💻 Web Application
 
-- 웹 체스 게임 with Spark Java & MySQL (진행 예정)
+- 웹 체스 게임 with Spark Java & MySQL *(진행 예정)*
 
 <br>
 
 ## 🙋🏻 테크톡
 
 - [DTO vs VO](https://velog.io/@jwkim/dto-vo) (2021.07.31)
+- Cookie vs Session *(진행 예정, 2021.09.25)*
 
 <br>
 
