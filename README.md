@@ -17,7 +17,7 @@
 
 ### 💻 Web Application
 
-- 웹 체스 게임 with Spark Java & MySQL *(진행 예정)*
+- 웹 체스 게임 with Spark Java & MySQL *(진행 중)*
 
 <br>
 
