@@ -34,6 +34,7 @@
 - 테스트 주도 개발 | Kent Beck
 - 소프트웨어 장인 | Sandro Mancuso
 - 클린 코드 | Robert C. Martin
+- 객체지향의 사실과 오해 | 조영호
 
 <br>
 
