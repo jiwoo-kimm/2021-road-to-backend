@@ -24,7 +24,7 @@
 ## 🙋🏻 테크톡
 
 - [DTO vs VO](https://velog.io/@jwkim/dto-vo) (2021.07.31)
-- Cookie vs Session *(진행 예정, 2021.09.25)*
+- Cookie vs Session *(진행 예정, 2021.10.09)*
 
 <br>
 
